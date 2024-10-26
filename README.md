@@ -1,4 +1,4 @@
-[![MasterHead]([https://tr.pinterest.com/pin/869828115504354679/](https://i.pinimg.com/564x/20/0a/07/200a072465dc3c288a1d5780105705f7.jpg))
+
 <h1 align="center">Hi 👋, I'm Şeyma karadeniz</h1>
 <h3 align="center">A computer programming student from Türkiye</h3>
 
